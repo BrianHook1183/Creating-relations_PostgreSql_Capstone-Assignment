@@ -16,9 +16,7 @@ For this checkpoint to considered complete, you must get all the tests to pass.
 
 After brainstorming with your employees, you created the following ERD to represent the additional tables you would need:
 
-[ERD: Books, Authors, Genres Tables](/books-authors-genres-erd.png)
-
-![image.png](//res.cloudinary.com/strive/image/upload/w_1000,h_1000,c_limit/95b256bd98adc195eb5082d401eed0f2-image.png)
+[ERD: Books, Authors, Genres Tables](https://github.com/BrianHook1183/Creating-relations_PostgreSql_Capstone-Assignment/blob/89dc23daf00539e1f15e93aee09d2ba93d22c477/books-authors-genres-erd.png)
 
 And now, you are ready to translate the ERD above into SQL tables.
 
